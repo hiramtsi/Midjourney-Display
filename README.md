@@ -1,6 +1,6 @@
 # Midjourney Display 🎨🖥️ 
 
-Midjourney Showcase is a futuristic, web-based gallery that showcases a mesmerizing collection of AI-generated images 🤖🎭. Immerse yourself in the extraordinary world of AI creativity with our interactive and vibrant platform!
+Midjourney Showcase is a futuristic, web-based gallery that showcases a mesmerizing collection of AI-generated images 🤖🎭. Immerse yourself in the extraordinary world of AI creativity with our interactive and vibrant platform! 
 
 ## 🛠️ Prerequisites
 
